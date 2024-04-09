@@ -15,7 +15,7 @@ I'm Sanket Agarwal, a passionate software engineer with a focus on building high
 
 * **[Speedpost](https://github.com/sanket2904/speedpost):** A high-performance PostgreSQL wire protocol implementation in Rust with in-memory caching for significantly boosted read speeds.
 * **[SIFS](https://github.com/sanket2904/sifs):** A blazing-fast file search application built using Tauri, Svelte, and Rust, offering a superior alternative to default Windows search.
-* **[Rengo]([link-to-rengo-repo](https://github.com/sanket2904/rengo):** A comprehensive MongoDB wire protocol implementation in Rust, featuring in-memory caching for enhanced query performance and streamlined data exchange.
+* **[Rengo](https://github.com/sanket2904/rengo):** A comprehensive MongoDB wire protocol implementation in Rust, featuring in-memory caching for enhanced query performance and streamlined data exchange.
 * **[PerthLB](https://github.com/sanket2904/perthlb):** A Layer 4 TCP load balancer developed in Rust, demonstrating expertise in load balancing concepts and implementation.
 
 ## Connect with me
